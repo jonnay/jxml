@@ -1,0 +1,11 @@
+{
+  "author": "Jonathan Arkell <jonnay@jonnay.net> (http://www.jonnay.net)",
+  "name": "jxml",
+  "description": "Represent XML (and HTML) as JSON.  Inspired by SXML.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jonnay/jxml",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jonnay/jxml.git"
+  }
+}
